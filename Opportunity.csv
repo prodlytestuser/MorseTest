@@ -1,0 +1,11 @@
+"Guid","AccountId","Amount","CloseDate","ContactId","Description","ForecastCategoryName","LeadSource","Name","NextStep","Probability","SBQQ__Contracted__c","SBQQ__CreateContractedPrices__c","SBQQ__OrderGroupID__c","SBQQ__Ordered__c","SBQQ__QuotePricebookId__c","SBQQ__Renewal__c","StageName","Type"
+e10c036b-f186-4dad-9704-64da258c10e9,985a17ec-8c53-4fdd-a903-3ee7a86c936d,20000.0,2020-12-02,"#N/A","Tetshjdsbjbsdjfbjsdbfjbsjdfjksdnfkjbdsfjkbds,
+jskdfnjkasdnfjknsdjkfnasjkfnjkasdfnjksdnfjksnf,
+Tetshjdsbjbsdjfbjsdbfjbsjdfjksdnfkjbdsfjkbds,
+jskdfnjkasdnfjknsdjkfnasjkfnjkasdfnjksdnfjksnf,
+Tetshjdsbjbsdjfbjsdbfjbsjdfjksdnfkjbdsfjkbds,
+jskdfnjkasdnfjknsdjkfnasjkfnjkasdfnjksdnfjksnf,
+Tetshjdsbjbsdjfbjsdbfjbsjdfjksdnfkjbdsfjkbds,
+jskdfnjkasdnfjknsdjkfnasjkfnjkasdfnjksdnfjksnf,
+Tetshjdsbjbsdjfbjsdbfjbsjdfjksdnfkjbdsfjkbds,
+jskdfnjkasdnfjknsdjkfnasjkfnjkasdfnjksdnfjksnf,",Pipeline,Trade Show,Test opportunity,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Prospecting,Existing Business
